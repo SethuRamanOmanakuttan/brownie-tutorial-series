@@ -1,0 +1,5 @@
+dotenv: .env
+networks: 
+    default: goerli-chainstack 
+account-keys:
+  private-key: ${ACCOUNT_PRIVATE_KEY}
